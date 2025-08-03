@@ -1,5 +1,6 @@
-<h1 align="center">
-  <span style="font-size: 48px; font-weight: bold; color: white;" id="glitch-name">Hi there! 👋 I'm Siddharth Seth</span>
+<!-- Name Section -->
+<h1 align="center" style="color:white; font-weight: bold;">
+  Siddharth Seth
 </h1>
 
 <!-- Typing Animation -->
@@ -12,14 +13,14 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<!-- Action Buttons -->
+<!-- Buttons -->
 <div align="center" style="margin-top: 20px;">
   <a href="https://portfolio-website-tau-nine-44.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Portfolio-00F759?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Button"/>
+    <img src="https://img.shields.io/badge/Visit-Portfolio-00F759?style=for-the-badge&logo=vercel&logoColor=black&labelColor=20232a" alt="Portfolio Button"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1d2SiOldP41hqSqSBJw6T73bhrgnycRq9/view" target="_blank">
-    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Button"/>
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=20232a" alt="Resume Button"/>
   </a>
 </div>
 
@@ -52,37 +53,7 @@
 
 ---
 
-<!-- Activity Graph -->
+<!-- Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sseth345&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
-
----
-
-<div align="center" style="margin-top: 40px;">
-  <strong>Thanks for visiting! 😊</strong><br/>
-  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
-</div>
-
-<!-- Glitch Effect Styling -->
-<style>
-#glitch-name {
-  display: inline-block;
-  font-size: 3rem;
-  font-family: monospace;
-  animation: glitch 1s infinite;
-  cursor: pointer;
-}
-#glitch-name:hover {
-  color: #00F759;
-  filter: drop-shadow(0 0 5px #00F759);
-}
-@keyframes glitch {
-  0% { text-shadow: 2px 0 red, -2px 0 blue; }
-  20% { text-shadow: -2px 0 red, 2px 0 blue; }
-  40% { text-shadow: 2px 0 red, -2px 0 blue; }
-  60% { text-shadow: -2px 0 red, 2px 0 blue; }
-  80% { text-shadow: 2px 0 red, -2px 0 blue; }
-  100% { text-shadow: -2px 0 red, 2px 0 blue; }
-}
-</style>
